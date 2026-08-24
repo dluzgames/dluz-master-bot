@@ -1,0 +1,12 @@
+{
+  "name": "dluz-master-bot",
+  "version": "2.0.0",
+  "description": "DLuz Master AI Ecosystem — Telegram Admin & WhatsApp 24/7 Sales Agent",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
